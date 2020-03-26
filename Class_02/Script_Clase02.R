@@ -14,7 +14,7 @@
 
 # Creación de Objetos
 
-x<-NULL
+x<-NULL # ESTO CREA UN objeto vacio
 y<-c(TRUE,FALSE)
 as.numeric(y)
 
